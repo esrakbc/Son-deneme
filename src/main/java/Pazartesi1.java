@@ -3,5 +3,6 @@ public class Pazartesi1 {
         System.out.println("bugün yordu");
         System.out.println("SQL kolay");
         System.out.println("Working space kodu silme");
+        System.out.println("Bahar");
     }
 }
